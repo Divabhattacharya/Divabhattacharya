@@ -2,6 +2,8 @@
 
 <div align="center">
 
+<img src="assets/diva.png" width="170" alt="Diva Bhattacharya"/>
+
 <a href="https://github.com/Divabhattacharya"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=76B900&center=true&vCenter=true&width=720&lines=Kaggle+Silver+%E2%80%94+CSIRO+Image2Biomass%2C+Global+Rank+30;Fuzzing+%2B+Z3+verification+of+LLVM's+NVPTX+backend;PTX+interpreter+in+C%2B%2B%2C+no+GPU+required;CUDA+compiler+testing+on+an+NVIDIA+A100" alt="Typing SVG"/></a>
 
 <a href="https://www.linkedin.com/in/diva-bhattacharya-829a80192/"><img src="https://img.shields.io/badge/LinkedIn-Diva%20Bhattacharya-0A66C2?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHJlY3Qgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiByeD0iNCIgZmlsbD0iI2ZmZmZmZiIvPjx0ZXh0IHg9IjEyIiB5PSIxOCIgZm9udC1mYW1pbHk9IkFyaWFsLEhlbHZldGljYSxzYW5zLXNlcmlmIiBmb250LXdlaWdodD0iYm9sZCIgZm9udC1zaXplPSIxNSIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZmlsbD0iIzBBNjZDMiI%2BaW48L3RleHQ%2BPC9zdmc%2B" alt="LinkedIn"/></a>
